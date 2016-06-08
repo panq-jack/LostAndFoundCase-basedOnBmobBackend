@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">失物招领</string>
+
+
+
+    <string-array name="adapters">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+</resources>
